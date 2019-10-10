@@ -14,7 +14,7 @@
 :project_id: gs-serving-web-content
 This guide walks you through the process of creating a "hello world" web site with Spring.
 
-{<img src="https://travis-ci.org/silvaz99/gs-serving-web-content.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/silvaz99/gs-serving-web-content]
+https://travis-ci.org/silvaz99/gs-serving-web-content.svg?branch=master
 
 == What you'll build
 
