@@ -13,6 +13,7 @@
 :source-highlighter: prettify
 :project_id: gs-serving-web-content
 This guide walks you through the process of creating a "hello world" web site with Spring.
+[![Build Status](https://travis-ci.org/silvaz99/gs-serving-web-content.svg?branch=master)](https://travis-ci.org/silvaz99/gs-serving-web-content)
 
 == What you'll build
 
